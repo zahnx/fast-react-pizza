@@ -48,10 +48,11 @@ const router = createBrowserRouter([
     ],
   },
 ]);
+```
 
 ## Live Demo
 
-[Fast React Pizza Live Demo Link](https://fastpizza-zahn.netlify.app)
+[Fast React Pizza Live Demo Link](https://fast-react-pizza-zahn.netlify.app)
 
 ## Installation
 
